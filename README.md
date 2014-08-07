@@ -41,7 +41,7 @@ IE8兼容性模式是IE7文档模式，该标准只是在IE6的基础上修复�
 ```
 
 3.在页面中定义文档兼容性模式，让IE始终按照当前网站的兼容版本(IE8)或者浏览器最高版本解析网页
-兼容版本(IE8)
+`X-UA-compatible`除了`title`元素及其他的`meta`元素之外，它必须放在网页`head`节点内其它元素之前的位置
 ```
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -54,7 +54,7 @@ IE8兼容性模式是IE7文档模式，该标准只是在IE6的基础上修复�
     <body></body>
 </html>
 ```
-最高版本
+兼容版本(IE8)或者IE浏览器最高版本
 ```
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 ```
