@@ -30,20 +30,17 @@ IE8兼容性模式是IE7文档模式，该标准只是在IE6的基础上修复�
 ```
 <!DOCTYPE html>
 <html>
-        <head>
-        </head>
+    <head></head>
 </html>
 ```
 
 2.禁止在doctype之前加入HTML注释，此操作会触发浏览器的怪异模式
-
 ```
 <!-- Author:jobs-->
 <!DOCTYPE html>
 ```
 
 3.在页面中定义文档兼容性模式，让IE始终按照当前网站的兼容版本(IE8)或者浏览器最高版本解析网页
-
 兼容版本(IE8)
 ```
 <!DOCTYPE html>
@@ -51,24 +48,23 @@ IE8兼容性模式是IE7文档模式，该标准只是在IE6的基础上修复�
 	<head>
 		<title>pageTitle</title>
 		<meta http-equiv="content-type" content="text/html;charset=utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta http-equiv="X-UA-Compatible" content="IE=8">
 		<link rel="stylesheet" type="text/css" href="css.css">
 	</head>
     <body></body>
 </html>
 ```
-
 最高版本
 ```
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 ```
-`X-UA-compatible`除了`title`元素及其他的`meta`元素之外，它必须放在网页`head`节点内其它元素之前的位置
+
 
 ####客户端
-1. 打开IE - 工具 - 兼容性视图设置
-2. 删除 - 兼容性视图中的 IP 或 网址
-3. 勾掉 - 最下面三个选项前面的勾
-4. 关闭
+1. 打开IE > 工具 > 兼容性视图设置
+2. 删除 > 兼容性视图中的 IP 或 网址
+3. 勾掉 > 最下面三个选项前面的勾
+4. 关闭 > 刷新
 
 ##更新
 - qijc@asiainfo.com / 2014-08-07
