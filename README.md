@@ -34,7 +34,7 @@ IE8兼容性模式是IE7文档模式，该标准只是在IE6的基础上修复�
 </html>
 ```
 
-2.禁止在doctype之前加入HTML注释，此操作会触发浏览器的怪异模式
+2.禁止在doctype之前加入HTML注释，此操作会触发浏览器的[怪异模式](http://zh.wikipedia.org/wiki/Quirks%E6%A8%A1%E5%BC%8F)
 ```
 <!-- Author:jobs-->
 <!DOCTYPE html>
