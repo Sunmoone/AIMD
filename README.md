@@ -13,16 +13,16 @@
 	- JavaScript 高级程序设计 (第3版) [PDF](#) / [豆瓣](http://book.douban.com/subject/10546125/)
  
 ## 深入实践 
-> 可以按分类的顺序阅读，★★★ 表示放在最后看。
+> 可以按照分类的顺序阅读，★表示放在最后看。
 
 - HTML	
 	- 编写高质量代码 - Web前端开发修炼之道 [豆瓣](http://book.douban.com/subject/4881987/)
-	- 大巧不工 ★★★ [豆瓣](http://book.douban.com/subject/4914146/)
+	- 大巧不工 ★ [豆瓣](http://book.douban.com/subject/4914146/)
 - CSS 
 	- 精通CSS : 高级Web标准解决方案（第2版）[豆瓣](http://book.douban.com/subject/4736167/)
 	- CSS禅意花园  [豆瓣](http://book.douban.com/subject/2052176/) 
 	- 编写易于管理及维护的 CSS [Github](https://github.com/chadluo/CSS-Guidelines)
-	- 超越CSS：Web设计艺术精髓 ★★★ [豆瓣](http://book.douban.com/subject/2345964/)
+	- 超越CSS：Web设计艺术精髓 ★ [豆瓣](http://book.douban.com/subject/2345964/)
 - HTML5 & CSS3
 	- HTML5程序设计 (第2版)  [豆瓣](http://book.douban.com/subject/10608238/)
 	- CSS3实用指南 [豆瓣](http://book.douban.com/subject/10482084/)
@@ -31,8 +31,8 @@
 	- JavaScript权威指南 (第6版) (犀牛) [豆瓣](http://book.douban.com/subject/10549733/)
 	- JavaScript语言精粹 [豆瓣](http://book.douban.com/subject/3590768/)
 	- 编写可维护的JavaScript [豆瓣](http://book.douban.com/subject/11506062/)
-	- 高性能JavaScript (猫头鹰)  ★★★ [豆瓣](http://book.douban.com/subject/5362856/)
-	- JavaScript设计模式 ★★★ [豆瓣](http://book.douban.com/subject/3329540/)
+	- 高性能JavaScript (猫头鹰)  ★ [豆瓣](http://book.douban.com/subject/5362856/)
+	- JavaScript设计模式 ★ [豆瓣](http://book.douban.com/subject/3329540/)
 - jQuery 
 	- 锋利的jQuery (第2版) [豆瓣](http://book.douban.com/subject/10792216/)
 - Node.js
